@@ -3,7 +3,7 @@
 /*
 * Plugin Name: WooCommerce Driver Assignment
 * Description: Allows admin to assign a driver to an order and add driver data to order meta
-* Author: Your Name
+* Author: Aaron Besson (https://github.com/aaronbesson/WooCommerce-DeliveryDriver)
 * Version: 1.0
 */
 
